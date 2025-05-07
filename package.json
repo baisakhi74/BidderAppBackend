@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/baisakhi74/BidderAppBackend/issues"
   },
-  "homepage": "https://github.com/baisakhi74/BidderAppBackend#readme"
+  "homepage": "https://github.com/baisakhi74/BidderAppBackend#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
 }
